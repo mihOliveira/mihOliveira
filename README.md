@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou a Michele Oliveira 🌸
 
-<!--
-**mihOliveira/mihOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Michele Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=mihOliveira&theme=radical&show_icons=true)
 
-Here are some ideas to get you started:
+Aqui é onde voce pode me conhecer melhor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-oliveira-dev/)
+
+Essas são as tecnologias que estudo e me dedico todos os dias.
+
+<div style="display: inline-block">
+  <img aligh="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img aligh="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div><br/>
